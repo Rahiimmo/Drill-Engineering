@@ -1,6 +1,7 @@
 # Drill-Engineering
 A typical project in drilling a well.
-in this project, we calculate this properties:
+
+In this project, we calculate this properties:
 1. The length of the drill collar
 2. Weight of drill string at air
 3. Volume of required mud to fill surface mud reservoir, drill string and hole.
